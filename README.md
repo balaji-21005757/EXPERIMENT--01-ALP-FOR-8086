@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
+Name : BALAJI K
+Roll no : 212221230011
 Date of experiment :
 
 
