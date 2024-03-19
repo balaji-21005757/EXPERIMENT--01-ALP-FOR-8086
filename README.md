@@ -89,7 +89,8 @@ ret
 
 
 ## Output  
- 
+ ![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/a10431a6-f344-43e9-b9f3-d7348fb075c8)
+
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
