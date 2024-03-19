@@ -138,10 +138,37 @@ ret
 
 ## Output  
 
-![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/03fcafbb-1fbb-4dc1-9798-dbd10d3551fd)
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/f29fba07-9ff6-4631-ab9d-3177efd10473)
+
 
 ## Programs for logical operations
+## AND alp
+```
+MOV AL,66H;
+MOV BL,77H;
+AND AL,BL
+HLT
 
+ret
+```
+## Output 
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/08c0dcc1-a7a6-458a-9e65-c4464bc5e4fd)
+
+## OR alp
+```
+
+```
+## Output
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/b0e1bd14-d7aa-427c-9886-fc76e90b92ad)
+
+## XOR alp
+```
+
+```
+## NOT alp
+```
+
+```
 
 
 ## Result :
