@@ -89,7 +89,7 @@ ret
 
 
 ## Output  
- ![Screenshot 2024-03-14 214636](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/94e7006b-b576-4fdf-8ab1-b378f8ce1483)
+ 
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -102,7 +102,8 @@ ret
 ```
 ## Output  
 
-![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/1317db11-b379-4ad1-bd2b-3ed3c1ce053d)
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/3272e495-7d8c-416a-b886-aceaa242b6f5)
+
 
 ## Multiplication alp 
 ```
@@ -116,7 +117,8 @@ ret
 ```
  ## Output  
 
-![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/c2f6d209-d3e0-47c5-bbc9-d9d1a55ee6f4)
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/43afc7e0-fd2f-4a89-896e-c4545960a12e)
+
 
 
 ## Division alp 
@@ -132,7 +134,8 @@ ret
 
 ## Output  
 
-![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/c832270b-5336-4ea4-9e05-364be3b3b075)
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/facd091c-cadf-49f9-afeb-49fa0972dddf)
+
 
 
 ## Result :
