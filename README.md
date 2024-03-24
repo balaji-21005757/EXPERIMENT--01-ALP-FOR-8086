@@ -156,20 +156,37 @@ ret
 
 ## OR alp
 ```
+MOV AL,99H;
+MOV BL,66H;
+OR AL,BL
+HLT
 
+ret 
 ```
 ## Output
 ![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/b0e1bd14-d7aa-427c-9886-fc76e90b92ad)
 
 ## XOR alp
 ```
+MOV AL,85H;
+MOV BL,45H;
+XOR AL,BL
+HLT
+
+ret                                           
 
 ```
+## Output
+
 ## NOT alp
 ```
+MOV AL,38H
+NOT AL
+HLT
 
+ret
 ```
-
+## Output
 
 ## Result :
  Hence ALP on fundamental arithmetic and logical operations is verified and executed.
