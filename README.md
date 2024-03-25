@@ -177,6 +177,7 @@ ret
 
 ```
 ## Output
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/fe9093c2-c3dc-480a-86d3-4d00b1304cc7)
 
 ## NOT alp
 ```
@@ -187,6 +188,7 @@ HLT
 ret
 ```
 ## Output
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/6c81460b-6755-4928-b5a0-0afacea57c16)
 
 ## Result :
  Hence ALP on fundamental arithmetic and logical operations is verified and executed.
