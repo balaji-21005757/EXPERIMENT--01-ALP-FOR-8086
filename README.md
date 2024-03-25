@@ -104,7 +104,8 @@ ret
 ```
 ## Output  
 
-![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/0926f305-ddad-47c4-9d00-89b4e28ab544)
+![image](https://github.com/balaji-21005757/EXPERIMENT--01-ALP-FOR-8086/assets/94372294/eda8a410-84d2-40d3-8d22-90e33e92ebd7)
+
 
 
 
